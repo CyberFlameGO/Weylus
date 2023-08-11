@@ -7,7 +7,7 @@ edition = "2018"
 description = "Use your iPad or Android tablet as graphic tablet."
 
 [dependencies]
-hyper = "^0.13"
+hyper = "^0.14"
 url = "^2.2"
 tokio = { version = "0.2", features = ["macros"] }
 handlebars = "^4.1"
